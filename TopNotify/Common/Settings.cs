@@ -165,6 +165,10 @@ namespace TopNotify.Common
         TopRight,
         BottomLeft,
         BottomRight,
-        Custom
+        Custom,
+        TopMiddle,
+        BottomMiddle,
+        MiddleLeft,
+        MiddleRight
     }
 }
